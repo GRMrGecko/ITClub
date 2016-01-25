@@ -1,0 +1,1 @@
+Create folders and html files to make new pages. The files named index.html will show as the index page for a folder.

@@ -1,0 +1,1 @@
+This is the source code for https://it.gec.im which is Calhoun's IT Club website. Anyone is free to use as long as the license is followed.
